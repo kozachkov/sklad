@@ -1,0 +1,9 @@
+title: Работа со складом данных и языком запросов (Database & SQL)
+author_url: 
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "/sklad"
+url: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
